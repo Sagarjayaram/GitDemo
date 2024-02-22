@@ -1,2 +1,2 @@
 # GitDemo
-A new repo for Git learning
+A new repo for Git learning v2.0
